@@ -1,5 +1,5 @@
 # RandomTP-Minecraft
-A simple plugin that teleport you to random coordinates
+A simple plugin that teleport you to random coordinates with no cooldown for moment
 
 
 ### Download:
