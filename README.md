@@ -1,7 +1,25 @@
 # RandomTP-Minecraft
-A simple plugin that teleport you to random coordinates with no cooldown for moment
 
 
-### Download:
+> Description
+Allow your player to teleport randomly on worlds. Configurable cooldown, max and min distances, messages!
 
-Click [here](https://www.spigotmc.org/resources/randomtp-teleport-with-a-simple-command.37633/)
+> Commands
+Commands:
+- /randomtp | View your own ping,
+- /randomtp <user> | View the ping of <user>,
+- /ping reload | Reload the configuration file.
+
+> Permissions
+Permissions:
+- rtp.rtp | Ability to use random teleportation
+- rtp.ignoreCooldowns | Ability to ignore cooldowns
+
+> Configuration
+
+<img src="https://cdn.discordapp.com/attachments/809003049166831633/811494961316757514/Capture.PNG">
+ 
+> In future
+
+If you want to help me or have an idea for future of this plugin, please contact me on discord. (Gonz#0001)
+
