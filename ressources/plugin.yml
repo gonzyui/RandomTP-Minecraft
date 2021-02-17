@@ -1,0 +1,25 @@
+name: RandomTP
+version: 2.0.1
+author: gonz
+main: fr.gonzyui.Main
+description: Teleports the player to a random location. Also has configurable maximum and minimum distance
+commands:
+  rtp:
+    description: The base rtp command - teleports you to a random location
+    usage: /rtp
+permissions:
+  rtp.help:
+    description: Use thehelp command to list the available commands
+    default: true
+  rtp.rtp:
+    description: Use the base rtp command to teleport you to a random location
+    default: true
+  rtp.setConfig:
+    description: Use the setconfig command to edit the config file
+    default: op
+  rtp.reload:
+    description: Use the reload command to reload the config file
+    default: op
+  rtp.ignoreCooldowns:
+    description: Ignore the default cooldown time after using /rtp
+    default: op
