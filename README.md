@@ -15,7 +15,7 @@ Permissions:
 - rtp.rtp | Ability to use random teleportation
 - rtp.ignoreCooldowns | Ability to ignore cooldowns
 
-> Configuration
+> Configuration file
 
 <img src="https://cdn.discordapp.com/attachments/809003049166831633/811494961316757514/Capture.PNG">
  
